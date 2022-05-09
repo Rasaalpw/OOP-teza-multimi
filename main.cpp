@@ -62,7 +62,7 @@ int main()
             C = A;
             C - B;
             cout << C;
-            
+
         }
         else if (raspuns == 'd')
         {

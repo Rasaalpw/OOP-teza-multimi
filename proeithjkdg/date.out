@@ -1,0 +1,5 @@
+Multimea A = {1 2 3 5 7 8 }
+Multimea B = { 2 3 6 7 }
+A U B = {1 2 3 5 6 7 8 }
+A intersectat cu B = {2 3 7 }
+A - B ={1 5 6 8 }
